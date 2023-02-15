@@ -4,8 +4,6 @@ Glad to see you here:  ![visitor badge](https://visitor-badge.glitch.me/badge?pa
 My name is Namsi Lydia,ambitious and forward thinking developer with skill in Mobile development and web application development .Currently pursuing real world experience to develop acquired skills and eager to learn new processes and also Experienced in different phases of software development life cycle (SDLC) like designing, programming ,Agile Methodologies to meet requirements and users needs
 
 
-- ⚡ Fun fact: love to challenge myself by learning  new skills to expand my knowledge and skillset.
-- 🌱 I’m currently learning flutter and DevOps.
 -  👯 I’m looking to collaborate on OpenSource Projects
 -   📫 How to reach me:email:namsilydia27@gmail.com
 -  🤔 I’m looking for help with  development of cross platform applications
@@ -21,15 +19,12 @@ My name is Namsi Lydia,ambitious and forward thinking developer with skill in Mo
 ###  Languages And Tools:
  <p align="left"> 
     <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/>
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
     <img src="https://img.icons8.com/color/48/000000/dart.png"/>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/</a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
  
