@@ -1,5 +1,4 @@
 ### Hi there 👋
-Glad to see you here:  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=namsi-lia.visitor-badge)
 
 My name is Namsi Lydia,ambitious and forward thinking developer with skill in Mobile development and web application development .Currently pursuing real world experience to develop acquired skills and eager to learn new processes and also Experienced in different phases of software development life cycle (SDLC) like designing, programming ,Agile Methodologies to meet requirements and users needs
 
