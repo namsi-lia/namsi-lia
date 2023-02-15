@@ -23,14 +23,8 @@ My name is Namsi Lydia,ambitious and forward thinking developer with skill in Mo
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/</a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
-
- 
- ### My Github Stats:
- [![Namsi Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsi-lia)](https://github.com/namsi-lia/github-readme-stats)
- 
 
 <!--
 **namsi-lia/namsi-lia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
