@@ -8,9 +8,9 @@ My name is Namsi Lydia,ambitious and forward thinking developer with skill in Mo
 
 ### Connect With Me:
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/twitter--v2.png/namsilydia"/>
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<img src="https://img.icons8.com/fluency-systems-filled/48/000000/github.png"/>
+<img src="https://img.icons8.com/fluency-systems-filled/48/000000/github.png/namsi-lia"/>
 </p>
 
 
