@@ -6,14 +6,6 @@ My name is Namsi Lydia,ambitious and forward thinking developer with skill in Mo
 -  👯 I’m looking to collaborate on OpenSource Projects
 -   📫 How to reach me:email:namsilydia27@gmail.com
 
-### Connect With Me:
-<p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/twitter--v2.png/namsilydia"/>
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<img src="https://img.icons8.com/fluency-systems-filled/48/000000/github.png/namsi-lia"/>
-</p>
-
-
 ###  Languages And Tools:
  <p align="left"> 
     <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/>
