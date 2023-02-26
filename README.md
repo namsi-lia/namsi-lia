@@ -5,7 +5,6 @@ My name is Namsi Lydia,ambitious and forward thinking developer with skill in Mo
 
 -  👯 I’m looking to collaborate on OpenSource Projects
 -   📫 How to reach me:email:namsilydia27@gmail.com
--  🤔 I’m looking for help with  development of cross platform applications
 
 ### Connect With Me:
 <p align="left"> 
